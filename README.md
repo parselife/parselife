@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on `GIS` & `CloudNative`
+- 🌱 I’m currently learning `MachineLearning` & `DeepLearning`
+- 👯 I’m looking to collaborate on any opensource projects
+
+
 <!--
 **parselife/parselife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
